@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/Desktop/NetWorkC/opengl.c
+GLUT/GLUT.h
+-
+iostream
+-
+cmath
+-
+algorithm
+-
+stdio.h
+-
+stdlib.h
+-
+GL/glut.h
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+
