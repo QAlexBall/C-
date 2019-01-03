@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/alex/Desktop/OpenCV/main.cpp
+/home/alex/Desktop/C-/OpenCV/main.cpp
 opencv2/opencv.hpp
 -
 iostream
 -
 opencv2/imgproc.hpp
-/home/alex/Desktop/OpenCV/opencv2/imgproc.hpp
+/home/alex/Desktop/C-/OpenCV/opencv2/imgproc.hpp
 opencv2/ximgproc.hpp
-/home/alex/Desktop/OpenCV/opencv2/ximgproc.hpp
+/home/alex/Desktop/C-/OpenCV/opencv2/ximgproc.hpp
 opencv2/imgcodecs.hpp
-/home/alex/Desktop/OpenCV/opencv2/imgcodecs.hpp
+/home/alex/Desktop/C-/OpenCV/opencv2/imgcodecs.hpp
 opencv2/highgui.hpp
-/home/alex/Desktop/OpenCV/opencv2/highgui.hpp
+/home/alex/Desktop/C-/OpenCV/opencv2/highgui.hpp
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp
 opencv2/core.hpp

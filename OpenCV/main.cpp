@@ -40,3 +40,17 @@ int main() {
 
     return 0;
 }
+//#include<iostream>
+//
+//
+//#include<boost/lambda/lambda.hpp>
+//
+//using namespace boost::lambda;
+//using namespace std;
+//int main()
+//{
+//    //endl用'\n'来代替。
+//    //此时的_1代表了hello。
+//    (cout<<_1<<" "<<_2<<'\n')("hello","end");
+//    return 0;
+//}
