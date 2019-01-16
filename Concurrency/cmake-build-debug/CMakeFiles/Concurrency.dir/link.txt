@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -g   CMakeFiles/Concurrency.dir/main.cpp.o  -o Concurrency -lpthread 
