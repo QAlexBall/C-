@@ -1,1 +1,1 @@
-/usr/bin/c++  -g -Wall -g   CMakeFiles/Concurrency.dir/main.cpp.o  -o Concurrency -lpthread 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wall -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -mmacosx-version-min=10.14 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Concurrency.dir/main.cpp.o  -o Concurrency 

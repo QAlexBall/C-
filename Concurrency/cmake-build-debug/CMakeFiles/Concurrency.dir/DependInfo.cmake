@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/alex/Desktop/C-/Concurrency/main.cpp" "/home/alex/Desktop/C-/Concurrency/cmake-build-debug/CMakeFiles/Concurrency.dir/main.cpp.o"
+  "/Users/derenzhu/Github/my_github/C-/Concurrency/main.cpp" "/Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug/CMakeFiles/Concurrency.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

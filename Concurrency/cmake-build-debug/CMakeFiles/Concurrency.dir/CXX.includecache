@@ -6,10 +6,8 @@
 
 #IncludeRegexTransform: 
 
-/home/alex/Desktop/C-/Concurrency/main.cpp
-stdio.h
--
-stdlib.h
+/Users/derenzhu/Github/my_github/C-/Concurrency/main.cpp
+cstdlib
 -
 iostream
 -

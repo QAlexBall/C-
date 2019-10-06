@@ -1,3 +1,4 @@
-/home/alex/Desktop/C-/Concurrency/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alex/Desktop/C-/Concurrency/cmake-build-debug/CMakeFiles/Concurrency.dir
-/home/alex/Desktop/C-/Concurrency/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug/CMakeFiles/example1.dir
+/Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug/CMakeFiles/Concurrency.dir

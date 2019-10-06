@@ -1,4 +1,4 @@
-/home/alex/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/183.4886.39/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alex/Desktop/C-/Concurrency
+"/Users/derenzhu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/192.6603.37/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/derenzhu/Github/my_github/C-/Concurrency
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/alex/Desktop/C-/Concurrency/cmake-build-debug
+-- Build files have been written to: /Users/derenzhu/Github/my_github/C-/Concurrency/cmake-build-debug
